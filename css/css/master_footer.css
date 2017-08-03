@@ -1,0 +1,62 @@
+#u190
+{
+	position: fixed;
+}
+
+#u187,#u188,#u189
+{
+	border-color: #000000;
+	background-color: #000000;
+	position: relative;
+}
+
+#u196-4
+{
+	background-color: transparent;
+	font-size: 14px;
+	font-weight: bold;
+	position: relative;
+}
+
+#u197-4
+{
+	background-color: transparent;
+	font-size: 14px;
+	font-weight: bold;
+	position: relative;
+}
+
+#u199-4
+{
+	background-color: transparent;
+	font-size: 14px;
+	font-weight: bold;
+	position: relative;
+}
+
+#u200-4
+{
+	background-color: transparent;
+	font-size: 14px;
+	font-weight: bold;
+	position: relative;
+}
+
+#u196-4:hover p,#u197-4:hover p,#u199-4:hover p,#u200-4:hover p
+{
+	color: #F784A0;
+	visibility: inherit;
+}
+
+#u204,#u214
+{
+	position: relative;
+}
+
+#u205,#u206
+{
+	border-color: #000000;
+	background-color: #F784A0;
+	position: relative;
+}
+
