@@ -1,0 +1,55 @@
+<manifest alg="2" build="314" opt="true" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="417434784"/>
+    <file name="master_footer.css" crc="300085647" ref="contacts:about:portfolio:index"/>
+    <file name="contacts.css" crc="4246467268" ref="contacts"/>
+    <file name="about.css" crc="4246467268" ref="about"/>
+    <file name="portfolio.css" crc="4246467268" ref="portfolio"/>
+    <file name="index.css" crc="146239040" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:about:contacts"/>
+    <file name="museutils.js" crc="3865766194" ref="index:portfolio:about:contacts"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3903299128" ref="index"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:portfolio:about:contacts"/>
+  </folder>
+  <folder name="images">
+    <file name="lulama-u214.png" crc="407459937" ref="index:portfolio:about:contacts"/>
+    <file name="flower 2-u240.png" crc="500031541" ref="index"/>
+    <file name="lulama web-u226-fr.jpg" crc="3897437995" ref="index"/>
+    <file name="img_3621-u259-fr.jpg" crc="453674668" ref="index"/>
+    <file name="img_3670-u264-fr.jpg" crc="4274096534" ref="index"/>
+    <file name="img_3625-u336-fr.jpg" crc="386961098" ref="index"/>
+    <file name="img_3688-u344-fr.jpg" crc="3834933473" ref="index"/>
+    <file name="img_3676-u365-fr.jpg" crc="3782776602" ref="index"/>
+    <file name="img_3628-u345-fr.jpg" crc="3795815577" ref="index"/>
+    <file name="img_3769-u346-fr.jpg" crc="4143978455" ref="index"/>
+    <file name="img_3791-u384-fr.jpg" crc="510720683" ref="index"/>
+    <file name="img_3699-u385-fr.jpg" crc="178501462" ref="index"/>
+    <file name="img_3680-u386-fr.jpg" crc="3798016740" ref="index"/>
+    <file name="img_3690-u387-fr.jpg" crc="4141714791" ref="index"/>
+    <file name="img_3790-u388-fr.jpg" crc="3759712518" ref="index"/>
+    <file name="31-u514-fr.jpg" crc="4141286194" ref="index"/>
+    <file name="16-u512-fr.jpg" crc="4157712541" ref="index"/>
+    <file name="24-u513-fr.jpg" crc="100934564" ref="index"/>
+    <file name="site 1-u539-fr.jpg" crc="472658389" ref="index"/>
+    <file name="site 7-u540-fr.jpg" crc="3992733606" ref="index"/>
+    <file name="site 9-u541-fr.jpg" crc="354756849" ref="index"/>
+    <file name="14-u492-fr.jpg" crc="444016800" ref="index"/>
+    <file name="25-u499-fr.jpg" crc="143900040" ref="index"/>
+    <file name="21-u488-fr.jpg" crc="3866158142" ref="index"/>
+    <file name="site 3-u581-fr.jpg" crc="4136562489" ref="index"/>
+    <file name="site 5-u583-fr.jpg" crc="106242617" ref="index"/>
+    <file name="site 2-u582-fr.jpg" crc="3826452898" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4160741523" mt="1501699695057" redirect="true"/>
+  <file name="portfolio.html" crc="3863432556" mt="1501682249135" redirect="true"/>
+  <file name="about.html" crc="368250052" mt="1501682249137" redirect="true"/>
+  <file name="contacts.html" crc="4050908729" mt="1501682249139" redirect="true"/>
+</manifest>
